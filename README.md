@@ -39,14 +39,17 @@ The project is an example of infrastructure for automation testing of different 
 * Electron application
 * Windows calculator - Desktop application
 
-### _Tools & Frameworks used in the project:_
+### _Tools & Frameworks that were used in this project:_
+* Selenium - For Web Aplication Testing
+* Appium - For Mobile Aplication Testing
+* RestAssured- for API testing
+* WinAppDriver - For Desktop Aplication Testing
+* Electron Driver - For Electron Aplication Testing
 * TestNG - Testing Framework
-*Appium Server -Testing Mobile
 * Listeners - interface used to generate logs and customize the TestNG reports
-* MySQL Free Online DB - used for login to Grafana web page
+* MySQL Free Online DB - used for login to myfitnesspal web page
 * [Jenkins](https://www.jenkins.io/)- for tests execution
-* REST Assured - for API testing
-* [Allure](http://allure.qatools.ru/) Reports - as the main reporting system
+* [Allure Reports](http://allure.qatools.ru/) - as the main reporting system
 
 ### Tests Execution:
 > Each of the applications has a few tests for demonstration purpose.
