@@ -1,6 +1,6 @@
 ## **Final Project Automation**
 
-### **_This project created to demonstrate my knowledge and skills in Automation Testing._**
+### **_This project was created to demonstrate my knowledge and skills on a variety of platforms using different kinds of tools & frameworks._**
 ***
 ### _About_
 The project demonstates a smart automation infrastructure. It is built in hierarchy order of modules. The modules contain number of classes with methods.
