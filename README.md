@@ -36,7 +36,7 @@ The project is an example of infrastructure for automation testing of different 
 * Grafana webpage - Web based application
 * Mortgage calculator - Mobile application
 * Grafana API - Web API
-*Todolist- Electron application
+* Todolist- Electron application
 * Windows calculator - Desktop application
 
 ### _Tools & Frameworks that were used in this project:_
