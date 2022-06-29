@@ -1,5 +1,5 @@
-Full Stack Automation Final Project
-Short Video - Demonstration
+Final Project Automation
+
 
 This project created to demonstrate my knowledge and skills in Automation Testing.
 About
@@ -8,8 +8,8 @@ The project demonstates a smart automation infrastructure. It is built in hierar
 Project Overview
 The project is an example of infrastructure for automation testing of different kinds of applications:
 
-Web based application
-Mobile application
+#Web based application
+#Mobile application
 Web API
 Electron application
 Desktop application
