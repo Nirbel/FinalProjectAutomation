@@ -36,7 +36,7 @@ The project is an example of infrastructure for automation testing of different 
 * Grafana webpage - Web based application
 * Mortgage calculator - Mobile application
 * Grafana API - Web API
-* Electron application
+*Todolist- Electron application
 * Windows calculator - Desktop application
 
 ### _Tools & Frameworks that were used in this project:_
@@ -47,7 +47,7 @@ The project is an example of infrastructure for automation testing of different 
 * Electron Driver - For Electron Aplication Testing
 * TestNG - Testing Framework
 * Listeners - interface used to generate logs and customize the TestNG reports
-* MySQL Free Online DB - used for login to myfitnesspal web page
+* MySQL Free Online DB - used for Grafana web  page
 * [Jenkins](https://www.jenkins.io/)- for tests execution
 * [Allure Reports](http://allure.qatools.ru/) - as the main reporting system
 
