@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Desktop Suite" duration-ms="21164" started-at="2022-06-28T21:42:24 IDT" finished-at="2022-06-28T21:42:46 IDT">
+    <groups>
+    </groups>
+    <test name="Desktop Tests" duration-ms="21164" started-at="2022-06-28T21:42:24 IDT" finished-at="2022-06-28T21:42:46 IDT">
+      <class name="sanity.CalculatorDesktop">
+        <test-method status="PASS" signature="StartSession(java.lang.String)[pri:0, instance:sanity.CalculatorDesktop@620d8e]" name="StartSession" is-config="true" duration-ms="3668" started-at="2022-06-28T21:42:24 IDT" finished-at="2022-06-28T21:42:28 IDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[desktop]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartSession -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:sanity.CalculatorDesktop@620d8e]" name="beforeMethod" is-config="true" duration-ms="110" started-at="2022-06-28T21:42:28 IDT" finished-at="2022-06-28T21:42:28 IDT">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void sanity.CalculatorDesktop.Test01_verifyAdditionCommand()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="Test01_verifyAdditionCommand()[pri:0, instance:sanity.CalculatorDesktop@620d8e]" name="Test01_verifyAdditionCommand" duration-ms="16888" started-at="2022-06-28T21:42:28 IDT" description="Test01 -  Verify Addition Command" finished-at="2022-06-28T21:42:45 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test01_verifyAdditionCommand -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:sanity.CalculatorDesktop@620d8e]" name="afterMethod" is-config="true" duration-ms="1" started-at="2022-06-28T21:42:45 IDT" finished-at="2022-06-28T21:42:45 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="CloseSession()[pri:0, instance:sanity.CalculatorDesktop@620d8e]" name="CloseSession" is-config="true" duration-ms="137" started-at="2022-06-28T21:42:45 IDT" finished-at="2022-06-28T21:42:46 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseSession -->
+      </class> <!-- sanity.CalculatorDesktop -->
+    </test> <!-- Desktop Tests -->
+  </suite> <!-- Desktop Suite -->
+</testng-results>

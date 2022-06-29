@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Electron Suite" parallel="false">
+    <test name="Electron Tests">
+        <parameter name="PlatformName" value="electron"/>
+        <classes>
+            <class name="sanity.TodoListElectron"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"3ee6c328cd13b7bf8cf2e1560d3cdfae","name":"Web Suite","statistic":{"failed":0,"broken":0,"skipped":0,"passed":8,"unknown":0,"total":8}},{"uid":"ba8d12a976d74943fc854e5acbb7d9f1","name":"Electron Suite","statistic":{"failed":0,"broken":0,"skipped":0,"passed":2,"unknown":0,"total":2}}]}
