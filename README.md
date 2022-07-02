@@ -1,5 +1,5 @@
 ## **Final Project Automation**
-[Short Video - Demonstration]([https://youtu.be/zRgIKCD8xBI](https://drive.google.com/file/d/1LE30JJGs7JYVvWvz8Zj3yr6JeV_GVR97/view?usp=sharing)
+[Short Video - Demonstration](https://youtu.be/zRgIKCD8xBI](https://drive.google.com/file/d/1LE30JJGs7JYVvWvz8Zj3yr6JeV_GVR97/view?usp=sharing)
 
 ### **_This project was created to demonstrate my knowledge and skills on a variety of platforms using different kinds of tools & frameworks._**
 ***
